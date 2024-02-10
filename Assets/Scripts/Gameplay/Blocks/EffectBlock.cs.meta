@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 97d46b6239d0a7543b9a2d4751a742a2
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - freezerSprite: {fileID: 21300000, guid: a228b80270dd76f4da2463bf8bf55057, type: 3}
+  - speedUpSprite: {fileID: 21300000, guid: 901eee1772abfce439f9cf8324bbce7c, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
